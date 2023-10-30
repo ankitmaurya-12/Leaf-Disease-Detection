@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<section class="position-relative py-4 py-xl-5">
+    <div class="container position-relative">
+        <div class="row d-flex justify-content-center">
+            <div class="col-md-8 col-lg-6 col-xl-5 col-xxl-4">
+                <div class="card mb-5">
+                    <div class="card-body p-sm-5">
+                        <form method="POST" action="/response">
+                            <h2 class="text-center mb-4">ChatBot</h2>
+                            <p class="p-2">{{ answer }}</p>
+                            <div class="mb-3">
+                                <textarea type="text" class="form-control" id="text" name="text"  rows="6" placeholder="Ask Something..." aria-describedby="textHelp"></textarea>
+                            </div>
+                            <div>
+                                <button class="btn btn-primary d-block w-100" type="submit">Send</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+{% endblock  %}
