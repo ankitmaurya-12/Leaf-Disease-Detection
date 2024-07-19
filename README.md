@@ -51,11 +51,11 @@ This dataset contains 87,000 RGB images of healthy and diseased crop leaves cate
 
 #### 1. Disease Detection 
 
-![Untitled video - Made with Clipchamp (1)](https://github.com/ankitmaurya-12/Leaf-Disease-Detection/assets/109618783/351e1a1d-aa5c-41dd-9945-2704a0d17e82)
+![Untitled video - Made with Clipchamp (1)](https://github.com/Abhi-vish/Leaf-Disease-Detection/assets/109618783/351e1a1d-aa5c-41dd-9945-2704a0d17e82)
 
 #### 2. ChatBot
 
-![Untitled video - Made with Clipchamp (2)](https://github.com/ankitmaurya-12/Leaf-Disease-Detection/assets/109618783/4f59d686-c8f5-4581-bb41-d4967902a0d3)
+![Untitled video - Made with Clipchamp (2)](https://github.com/Abhi-vish/Leaf-Disease-Detection/assets/109618783/4f59d686-c8f5-4581-bb41-d4967902a0d3)
 
 
 ## Virtual Environment 
@@ -76,7 +76,7 @@ And activate virtual environment by running command
 #### Install my-project in your envrionment
 
 `step1 : clone the repo` 
-- `https://github.com/Abhi-vish/Leaf-Disease-Detection.git`
+- `https://github.com/ankitmaurya-12/Leaf-Disease-Detection.git`
 
 `step2 : install requirements.txt package by running commnad`
 - `pip install  -r requirements.txt`
